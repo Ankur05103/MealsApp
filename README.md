@@ -1,16 +1,14 @@
 # internshala_meals
 
 A new Flutter project.
+Api used:
+  www.themealdb.com/api/
 
-## Getting Started
+Api end point used:
+Filter by Category
+  www.themealdb.com/api/json/v1/1/filter.php?c=Seafood
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Plugin used to play music
+  assets_audio_player
+link:
+  https://pub.dev/packages/assets_audio_player
